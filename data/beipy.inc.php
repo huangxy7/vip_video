@@ -29,50 +29,11 @@
   'jiekou9' => '',
   'jiekou10name' => '待添加',
   'jiekou10' => '',
-  'topnav' => '<li><a  href="http://tao.beipy.com" target="_blank" title="领取优惠券购物，不花冤枉钱" style="color: red !important;  font-weight: bold;">鱼券券</a></li>',
-  'ch1' => '<a href="http://tao.beipy.com" target="_blank" title="领券购物更优惠"><img src="img/gou.png"/></a>',
-  'guanggao' => '<a href="http://tao.beipy.com" target="_blank" title="广告位招租"><img src="img/1px.jpg"/></a>',
-  'changyan' => '<!--PC和WAP自适应版-->
-  <div id="SOHUCS" sid="beipyjx"></div>
-  <script type="text/javascript">
-			  (function() {
-				  var appid = "cyt3EaFzk";
-				  var conf = "prod_8cfa832bda466f573384382cb13afcf8";
-				  var width = window.innerWidth || document.documentElement.clientWidth;
-				  if(width < 960) {
-					  window.document.write(\'<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=\' + appid + \'&conf=\' + conf + \'"><\\/script>\');
-				  } else {
-					  var loadJs = function(d, a) {
-						  var c = document.getElementsByTagName("head")[0] || document.head || document.documentElement;
-						  var b = document.createElement("script");
-						  b.setAttribute("type", "text/javascript");
-						  b.setAttribute("charset", "UTF-8");
-						  b.setAttribute("src", d);
-						  if(typeof a === "function") {
-							  if(window.attachEvent) {
-								  b.onreadystatechange = function() {
-									  var e = b.readyState;
-									  if(e === "loaded" || e === "complete") {
-										  b.onreadystatechange = null;
-										  a()
-									  }
-								  }
-							  } else {
-								  b.onload = a
-							  }
-						  }
-						  c.appendChild(b)
-					  };
-					  loadJs("https://changyan.sohu.com/upload/changyan.js", function() {
-						  window.changyan.api.config({
-							  appid: appid,
-							  conf: conf
-						  })
-					  });
-				  }
-			  })();
-		  </script>',
-  'homelink' => '<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">北漂鱼官网</a>
+  'topnav' => '',
+  'ch1' => '',
+  'guanggao' => '',
+  'changyan' => '',
+  'homelink' => '<a href="http://beipy.com/" target="_blank"style="color:#888;margin:0 10px;">由北漂鱼提供</a>
 ',
   'icp' => '',
   'foot' => '本站提供的最新电影和电视剧资源均系收集于各大视频网站,本站只提供web页面服务,并不提供影片资源存储,也不参与录制、上传。<br/>若本站收录的节目无意侵犯了贵司版权，请给网页底部邮箱地址来信,我们会及时处理和回复,谢谢。',

@@ -39,19 +39,15 @@
 			        <span class="icon-bar"></span>
 			      </button>
 							<!--logo图标-->
-							<a class="navbar-brand logo" href="#"></a>
 						</div>
 						<!-- pc导航样式 -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
 								<li>
-									<a href="http://beipy.com" target="_blank">官网</a>
+									<a href="http://huangxy.cn" target="_blank">huangxy博客</a>
 								</li>
 								<li>
-									<a href="http://www.beipy.com" target="_blank">Beipy博客</a>
-								</li>
-								<li>
-									<a href="https://github.com/Beipy/VipVideoResolution" target="_blank"><span class="badge" style="background: #24292e;margin-right:5px;">Git</span>开源程序<span class="sr-only">(current)</span></a>
+									<a href="https://github.com/huangxy7" target="_blank"><span class="badge" style="background: #24292e;margin-right:5px;">Git</span>Git地址<span class="sr-only">(current)</span></a>
 								</li>
 								<li>
 									<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=911074625@qq.com" target="_blank">广告合作</a>

@@ -28,7 +28,7 @@
 		<a class="rollbar-weibo" href="<?php echo $aik['weibourl'];?>" target="_blank"></a>
 	</div>
 	<div class="rollbar-weix" title="关注微信公众号"><div class="weixinx"></div></div>
-	<div class="rollbar-erweima" title="下载手机app"><div class="erweims"></div></div>
+	
 	<div class="rollbar-item" title="返回顶部"><a class="rollbar-top"  href="#top"></a></div>
 </section>
 <section class="ch1">
